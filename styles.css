@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif; /* Fonte fácil de ler */
+    background-color: #d2b48c; /* Cor de fundo terrosa (tan) */
+    color: #333; /* Cor do texto escura para contraste */
+    text-align: center; /* Centraliza todo o conteúdo */
+    margin: 0; /* Remove margens padrão */
+    padding: 20px; /* Adiciona um pouco de espaçamento interno */
+  }
+
+  h1 {
+    color: #654321; /* Cor do título (marrom escuro) */
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    color: #a0522d; /* Cor do subtítulo (marrom avermelhado) */
+    margin-bottom: 30px;
+  }
+
+  p {
+    line-height: 1.6; /* Espaçamento entre linhas para melhor leitura */
+    max-width: 800px; /* Limita a largura do texto para melhor legibilidade */
+    margin: 0 auto; /* Centraliza o texto horizontalmente */
+  }
